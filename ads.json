@@ -1,35 +1,33 @@
 {
-
-  "ads":[
-    {
-      "AdmobInterstitial":"ca-app-pub-9970868924075606/2084417875",
-      "AdmobBanner":"ca-app-pub-9970868924075606/6023662884",
-      "AdmobNative" : "ca-app-pub-9970868924075606/8151681514",
-
-      "FaceInterstitial":"IMG_16_9_APP_INSTALL#893132221830576_893139515163180",
-      "FaceBanner":"IMG_16_9_APP_INSTALL#893132221830576_893135921830206",
-      "FaceNative" : "IMG_16_9_APP_INSTALL#893132221830576_893141341829664",
-
-      "UnityGame":"",
-      "UnityInterstitial":"",
-      "UnityBanner":"",
-
-      "ApplovinInterstitial":"",
-      "ApplovinBanner":"",
-       
-      "ApplovinInterstitialMax":"",
-      "ApplovinBannerMax":"",
-      "ApplovinNativeMax" : "",
-
-      "IronInterstitial" : "",
-      "IronBanner" : "",
-	  
-	  
-      "Network":"admob"
-	  
- 
+    "ads": {
+        "applovin_inter": "",
+        "applovin_native": "",
+        "applovin_banner": "",
+        "facebook_inter": "IMG_16_9_APP_INSTALL#893132221830576_893139515163180",
+        "facebook_banner": "IMG_16_9_APP_INSTALL#893132221830576_893135921830206",
+        "facebook_native": "IMG_16_9_APP_INSTALL#893132221830576_893141341829664",
+        "admob_inter": "",
+        "admob_banner": "",
+        "admob_native": "",
+        "ironsource_banner": "DefaultBanner",
+        "ironsource_inter": "DefaultInterstitial",
+        "iron_appkey": "",
+        "app_logo": "https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg",
+        "app_name": "GB version APK",
+        "welcome_text": "welcome to my app",
+        "first_activity_first_button_text": "help",
+        "first_activity_second_button_text": "go",
+        "dialog_title": "dialog title",
+        "dialog_text": "dialog text test from server",
+        "second_activity_first_button_text": "first button",
+        "second_activity_second_button_text": "second button",
+        "backup_activity_title": "progress activity",
+        "backup_activity_text": "this is a text from server to backup activity",
+        "done_activity_title": "done activity title",
+        "done_activity_text": "this is a text from server to done activity",
+        "done_activity_button_text": "open",
+        "banner_network_choice": "facebook",
+        "interstisial_network_choice": "facebook",
+        "native_network_choice": "facebook"
     }
-  ]
-
-
 }
