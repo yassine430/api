@@ -6,9 +6,9 @@
         "facebook_inter": "IMG_16_9_APP_INSTALL#893132221830576_893139515163180",
         "facebook_banner": "IMG_16_9_APP_INSTALL#893132221830576_893135921830206",
         "facebook_native": "IMG_16_9_APP_INSTALL#893132221830576_893141341829664",
-        "admob_inter": "",
-        "admob_banner": "",
-        "admob_native": "",
+        "admob_inter": "ca-app-pub-9970868924075606/2084417875",
+        "admob_banner": "ca-app-pub-9970868924075606/6023662884",
+        "admob_native": "ca-app-pub-9970868924075606/8151681514",
         "ironsource_banner": "DefaultBanner",
         "ironsource_inter": "DefaultInterstitial",
         "iron_appkey": "",
@@ -26,8 +26,8 @@
         "done_activity_title": "done activity title",
         "done_activity_text": "this is a text from server to done activity",
         "done_activity_button_text": "open",
-        "banner_network_choice": "facebook",
-        "interstisial_network_choice": "facebook",
-        "native_network_choice": "facebook"
+        "banner_network_choice": "admob",
+        "interstisial_network_choice": "admob",
+        "native_network_choice": "admob"
     }
 }
